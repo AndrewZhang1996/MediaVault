@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+<thumb>movie/thumbnail/Batman Darknight.jpg</thumb>
+<title>Batman Darknight</title>
+<plot>the batman struggle for justice and defeat the enemy named joker</plot>
+<type>Action</type>
+<duration>150</duration>
+</movie>
+

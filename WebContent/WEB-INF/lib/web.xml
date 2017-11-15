@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+<servlet>  
+        <servlet-name>UploadServlet</servlet-name>  
+        <servlet-class>form.UploadServlet</servlet-class>  
+    </servlet>  
+    <servlet-mapping>  
+        <servlet-name>UploadServlet</servlet-name>  
+        <url-pattern>/assignmenttest1</url-pattern>  
+    </servlet-mapping>  
+</web-app>

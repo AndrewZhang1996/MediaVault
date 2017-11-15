@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+<thumb>movie/thumbnail/Godfather.jpg</thumb>
+<title>Godfather</title>
+<plot>a movie about a family competer other families as a mafia</plot>
+<type>Drama</type>
+<duration>160</duration>
+</movie>
+
